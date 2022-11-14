@@ -14,5 +14,6 @@ def string_upper_lower_count(user_string):
     print("The number of upper case letters in string are: " + str(upper_case))
     print("The number of lower case letters in string are: " + str(lower_case))
 
+
 input_string = input("Enter the string: ")
 string_upper_lower_count(input_string)
